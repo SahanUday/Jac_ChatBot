@@ -65,9 +65,9 @@ See the **JAC ChatBot** in action! Watch how our RAG-enhanced chatbot provides i
 
 <div align="center">
 
-### 🚀 **Live Demo: RAG ChatBot in Action**
 
-https://github.com/user-attachments/assets/demovid.webm
+
+[https://github.com/user-attachments/assets/demovid.webm](https://github.com/SahanUday/Jac_ChatBot/blob/2e9891761262d4d4da80449d195dcd08c692b44f/assets/demovid.webm)
 
 *⬆️ Click to play the demo video*
 
