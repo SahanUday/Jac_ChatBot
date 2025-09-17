@@ -59,6 +59,28 @@ It's an intelligent solution for document-based question answering, knowledge ma
 
 ---
 
+## 🎥 Demo Video
+
+See the **JAC ChatBot** in action! Watch how our RAG-enhanced chatbot provides intelligent, context-aware responses:
+
+<div align="center">
+
+### 🚀 **Live Demo: RAG ChatBot in Action**
+
+https://github.com/user-attachments/assets/demovid.webm
+
+*⬆️ Click to play the demo video*
+
+</div>
+
+> 🎬 **What you'll see in the demo**:
+> - **Document Ingestion**: How the system processes markdown files
+> - **Interactive Chat**: Real-time conversation with the chatbot
+> - **Context Retrieval**: Smart document-based responses
+> - **RAG Performance**: Superior accuracy compared to basic AI models
+
+---
+
 ## 🧰 Setup & Run Guide (VS Code)
 
 ### ✅ Requirements
